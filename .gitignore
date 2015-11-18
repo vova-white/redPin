@@ -1,0 +1,12 @@
+assets/*
+cgi-bin/*
+css/*
+fonts/*
+images/*
+mail/*
+subscribe/*
+video/*
+js/*
+prepros.cfg
+form.html
+sendmail.php
